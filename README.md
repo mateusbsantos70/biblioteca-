@@ -44,7 +44,7 @@ Altere a constante SENHA (e USUARIO, se necessário) para as credenciais do seu 
 
 Java
 private static final String USUARIO = "root";
-private static final String SENHA   = "sua_senha_aqui";
+private static final String SENHA   = "1234";
 3. Adicionar o Driver MySQL:
 
 Certifique-se de adicionar o arquivo .jar do MySQL Connector/J ao Build Path ou às dependências do seu projeto (via Maven/Gradle, se aplicável).
